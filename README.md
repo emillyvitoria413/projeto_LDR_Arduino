@@ -4,10 +4,14 @@ Este projeto tem como objetivo criar um sistema de controle automático de LED u
 O sensor identifica a quantidade de luz no ambiente e o Arduino controla o LED de acordo com essa leitura. 
 Quando estiver escuro, o LED acende, e quando estiver claro, o LED apaga 
 
-Materiais
-Arduino Uno
-Sensor LDR
-LED
-Resistor
-Protoboard
-4 jumpers
+## Materiais
+## Materiais
+
+| Quantidade | Material |
+|------------|----------|
+| 1 | Arduino Uno |
+| 1 | Sensor LDR |
+| 1 | LED |
+| 1 | Resistor |
+| 1 | Protoboard |
+| 4 | Jumpers |
