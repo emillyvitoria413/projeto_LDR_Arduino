@@ -15,3 +15,12 @@ Quando estiver escuro, o LED acende, e quando estiver claro, o LED apaga
 | 1 | Resistor |
 | 1 | Protoboard |
 | 4 | Jumpers |
+### Sensore → OUTPUT
+
+```cpp
+int sensor = A0;
+int led = 9;
+
+void setup() {
+  pinMode(led, OUTPUT);
+}
